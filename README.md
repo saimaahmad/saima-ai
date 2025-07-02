@@ -3,9 +3,7 @@
 💼 Founder of [Postman.com.pk](https://postman.com.pk) – a global logistics and parcel platform  
 🧠 Full-Stack Developer & AI Digital Strategist focused on multilingual, smart automation platforms
 
-🔧 Currently Building (Under Development):
-- **Doctors365** – Smart medical assistant for appointment scheduling, triage, and second opinions  
-- **PetDoctors365** – Virtual petcare support, AI reception, prescription flow & pet food integrations  
+
 - **SaunaStay360** – Booking platform for sauna rentals with smart calendar, Stripe integration, owner dashboard & reviews
 
  
@@ -34,4 +32,4 @@ React · Next.js · Firebase · Node.js · Java · PostgreSQL · AWS · Stripe �
   Expert setup and management of Facebook, Instagram, and LinkedIn ads — including audience targeting, copywriting, visuals, CBO optimization, retargeting strategies, and performance analysis.
 
 - **Google & YouTube Ads Management**  
-  Full-service campaign structure for display and video ads — includes bid strategy, audience targeting, conversion tracking, remarketing, and results optimization.
+  Full-service campaign structure for display and video ads — includes bid strategy, audience targeting, conversion tracking, remarketing, and results optimisation.
