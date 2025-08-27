@@ -1,35 +1,35 @@
-## 📖 Documentation Overview  
 
-Each project is fully documented to cover the **entire lifecycle**, from requirements to execution:  
+# 👋 Hi, I’m Saima Ahmad  
 
-1. **Requirements & Use Cases**  
-   - Captures client needs, business objectives, and key workflows.  
-   - Examples:  
-     - [Postman.com.pk Requirements](docs/01_postman_requirements.md)  
-     - [SaunaStay360 Requirements](docs/01_saunastay_requirements.md)  
-     - [Castillo Accounting System Requirements](docs/01_castillo_requirements.md)  
-     - [PetDoctors365 Requirements](docs/01_petdoctors_requirements.md)  
+💼 Founder of [Postman.com.pk](https://postman.com.pk) – a global logistics and parcel platform  
+🧠 Full-Stack Developer & AI Digital Strategist focused on multilingual, smart automation platforms  
+🚀 AI Engineer | Building automation systems that save time, reduce costs & open new possibilities  
 
-2. **System Architecture**  
-   - Database schema, component structure, and server design.  
-   - Examples:  
-     - [Postman.com.pk Architecture](docs/02_postman_architecture.md)  
-     - [SaunaStay360 Architecture](docs/02_saunastay_architecture.md)  
-     - [Castillo Accounting System Architecture](docs/02_castillo_architecture.md)  
-     - [PetDoctors365 Architecture](docs/02_petdoctors_architecture.md)  
+---
 
-3. **Flowcharts & Workflows**  
-   - Visual representation of processes using **Mermaid diagrams**.  
-   - Example flows:  
+## 🌍 Featured Projects   – Case Studies & Documentation  
 
-**Postman.com.pk Parcel Workflow:**  
-```mermaid
-flowchart TD
-    A[Customer Places Order] --> B[Order Stored in DB]
-    B --> C[AI Label Generation]
-    C --> D[Assign Delivery Partner]
+## 🚚 Postman.com.pk  
+- [Live Site](https://postman.com.pk)  
+- [Documentation](https://github.com/saimaahmad/postman-logistics/tree/main/docs)  
+- [Mermaid Flow](https://github.com/saimaahmad/postman-logistics#parcel-workflow)  
 
+## 🧖 SaunaStay360  
+- [Live Site](https://saunastay-frontend.vercel.app/)  
+- [Docs & Flowcharts](https://github.com/saimaahmad/saunastay360/tree/main/docs)
+- [SaunaStay360 Architecture](docs/02_saunastay_architecture.md)   
 
+## 📊 Accounting System  
+- [Live Demo](https://castillo-accounting-firm.vercel.app/)  
+- [Documentation](https://github.com/saimaahmad/accounting-system/tree/main/docs)
+- [Castillo Accounting System Architecture](docs/02_castillo_architecture.md) 
+
+## 🐾 PetDoctors365  
+- [Live Site](https://doctors365.org/)  
+- [Docs](https://github.com/saimaahmad/petdoctors365/tree/main/docs)
+- [PetDoctors365 Architecture](docs/02_petdoctors_architecture.md)  
+
+📚 Portfolio & Docs → [saima-portfolio](https://github.com/saimaahmad/saima-portfolio)  
 
 ---
 
