@@ -1,7 +1,6 @@
 
 # 👋 Hi, I’m Saima Ahmad  
 
-💼 Founder of [Postman.com.pk](https://postman.com.pk) – a global logistics and parcel platform  
 🧠 Full-Stack Developer & AI Digital Strategist focused on multilingual, smart automation platforms  
 🚀 AI Engineer | Building automation systems that save time, reduce costs & open new possibilities  
 
