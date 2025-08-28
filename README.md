@@ -10,8 +10,8 @@
 
 ## 🚚 Postman.com.pk  
 - [Live Site](https://postman.com.pk)  
-- [Documentation](https://github.com/saimaahmad/postman-logistics/tree/main/docs)  
-- [Mermaid Flow](https://github.com/saimaahmad/postman-logistics#parcel-workflow)  
+- [SEO Documentation](https://github.com/saimaahmad/postman-logistics/tree/main/docs)  
+
 
 ## 🧖 SaunaStay360  
 - [Live Site](https://saunastay-frontend.vercel.app/)  
@@ -29,7 +29,7 @@
 ## 🐾 PetDoctors365  
 - [Live Site](https://doctors365.org/)  
 - [Docs][(https://github.com/saimaahmad/vet-finder-wizard/blob/main/docs/Modules%20Architecture%20and%20Flow%20Pet-Doctors-and-Doctors365.pdf)
-- [PetDoctors365 ReadMe](docs/02_petdoctors_architecture.md)  
+
 
 ---
 
