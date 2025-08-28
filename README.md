@@ -16,7 +16,9 @@
 ## 🧖 SaunaStay360  
 - [Live Site](https://saunastay-frontend.vercel.app/)  
 - [Docs & Flowcharts](https://github.com/saimaahmad/saunastay360/tree/main/docs)
-- [SaunaStay360 Architecture](docs/02_saunastay_architecture.md)   
+- 🎨 **SaunaStay360 UX/UI in Figma**  
+👉 [View Designs (PDF)](docs/saunastay-designs.pdf)
+  
 
 ## 📊 Accounting System  
 - [Live Demo](https://castillo-accounting-firm.vercel.app/)  
