@@ -28,7 +28,7 @@
 
 ## 🐾 PetDoctors365  
 - [Live Site](https://doctors365.org/)  
-- [Docs][(https://github.com/saimaahmad/vet-finder-wizard/blob/main/docs/Modules%20Architecture%20and%20Flow%20Pet-Doctors-and-Doctors365.pdf)
+- [Docs](https://github.com/saimaahmad/vet-finder-wizard/blob/main/docs/Modules%20Architecture%20and%20Flow%20Pet-Doctors-and-Doctors365.pdf)
 
 
 ---
