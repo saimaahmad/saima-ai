@@ -17,7 +17,7 @@
 - [Live Site](https://saunastay-frontend.vercel.app/)  
 - [Docs & Flowcharts](https://github.com/saimaahmad/saunastay360/tree/main/docs)
 - 🎨 **SaunaStay360 UX/UI in Figma**  
-👉 [View Designs (PDF)](https://github.com/saimaahmad/saunastay360/tree/main/docs/Website%20SaunaStay%20Prototype.pdf)
+👉 [View Designs (PDF)](https://github.com/saimaahmad/saunastay-frontend/blob/main/docs/Website%20SaunaStay%20Prototype.pdf)
 
   
 
