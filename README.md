@@ -15,7 +15,7 @@
 
 ## 🧖 SaunaStay360  
 - [Live Site](https://saunastay-frontend.vercel.app/)  
-- [Docs & Flowcharts](https://github.com/saimaahmad/saunastay360/tree/main/docs)
+- [Docs & Flowcharts](https://github.com/saimaahmad/saunastay-frontend/blob/main/docs/SaunaStay%20business%20Idea.pdf)
 - 🎨 **SaunaStay360 UX/UI in Figma**  
 👉 [View Designs (PDF)](https://github.com/saimaahmad/saunastay-frontend/blob/main/docs/Website%20SaunaStay%20Prototype.pdf)
 
@@ -23,15 +23,13 @@
 
 ## 📊 Accounting System  
 - [Live Demo](https://castillo-accounting-firm.vercel.app/)  
-- [Documentation](https://github.com/saimaahmad/accounting-system/tree/main/docs)
-- [Castillo Accounting System Architecture](docs/02_castillo_architecture.md) 
+- [Documentation](https://github.com/saimaahmad/Castillo_accounting-Version1/blob/main/docs/Proposal-Accounting-Software-for-Basic-Financial-Functions-and-Reporting.pdf)
+- [Castillo Accounting System Architecture](https://github.com/saimaahmad/Castillo_accounting-Version1/blob/main/README.md)
 
 ## 🐾 PetDoctors365  
 - [Live Site](https://doctors365.org/)  
 - [Docs][(https://github.com/saimaahmad/vet-finder-wizard/blob/main/docs/Modules%20Architecture%20and%20Flow%20Pet-Doctors-and-Doctors365.pdf)
-- [PetDoctors365 Architecture](docs/02_petdoctors_architecture.md)  
-
-📚 Portfolio & Docs → [saima-portfolio](https://github.com/saimaahmad/saima-portfolio)  
+- [PetDoctors365 ReadMe](docs/02_petdoctors_architecture.md)  
 
 ---
 
