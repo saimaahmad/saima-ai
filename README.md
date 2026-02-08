@@ -1,8 +1,8 @@
 
 # 👋 Hi, I’m Saima Ahmad  
 
-🧠 Full-Stack Developer & AI Digital Strategist focused on multilingual, smart automation platforms  
-🚀 AI Engineer | Building automation systems that save time, reduce costs & open new possibilities  
+🧠 AI Architecture Engineer & AI Digital Strategist focused on multilingual, smart automation platforms  
+🚀 AI System Engineer | Building automation systems that save time, reduce costs & open new possibilities  
 
 ---
 
