@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Saima Ahmad  
 
-🤖 **AI Automation Engineer | AI Trainer | AI Agents | Generative AI | Workflow Automation **
+🤖 **AI Automation Engineer | AI Trainer | Generative AI |  AI Agents | Workflow Automation **
 
 Building AI-powered automation systems that connect LLMs, APIs, and business workflows to reduce manual work and improve operational efficiency.
 
