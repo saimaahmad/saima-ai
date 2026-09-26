@@ -1,59 +1,10 @@
 
 # 👋 Hi, I’m Saima Ahmad  
 
-🤖 **AI Automation Engineer | AI Trainer | Generative AI |  AI Agents | Workflow Automation **
+🤖 Full-Stack Developer | AI-Native / AI-Assisted Development
+Building full-stack web applications end to end — using AI-native development tools (Cursor, Claude, GitHub Copilot) as part of my everyday workflow, with real ownership over architecture, data, and code quality, not just AI-generated output.
 
-Building AI-powered automation systems that connect LLMs, APIs, and business workflows to reduce manual work and improve operational efficiency.
-
-With a background in full-stack development and digital systems, I design practical AI solutions using Claude, OpenAI, n8n, Python, APIs, and automation platforms.**
-
----
----
-
-## 🤖 AI Automation & Generative AI Projects
-
-## 🎫 AI Support Ticket Triage Agent
-AI workflow automation system that classifies customer requests, detects priority, drafts responses, and routes issues automatically.
-
-**Technologies**
-- n8n
-- Claude API
-- Webhooks
-- Airtable
-- Slack automation
-
----
-
-## 🩺 Multilingual AI Receptionist Platform
-AI-powered conversational assistant designed for healthcare workflows.
-
-Capabilities:
-- Multilingual conversations
-- Appointment workflow automation
-- Insurance information handling
-- Customer intake automation
-
-**Technologies**
-- Claude API
-- OpenAI
-- n8n
-- REST APIs
-- Webhooks
-
----
-
-## 📚 RAG Knowledge Assistant
-Document-based AI assistant using Retrieval Augmented Generation.
-
-Capabilities:
-- Document processing
-- Knowledge retrieval
-- Context-aware responses
-
-**Technologies**
-- LangChain
-- Vector databases
-- LLM APIs
+With a background in full-stack development and digital systems, I design and ship production-style applications using React, TypeScript, Node.js, and modern backend platforms.
 
 
 ## 🌍 Business Systems & Digital Transformation Projects
@@ -83,36 +34,24 @@ Capabilities:
 
 ---
 
-## 🧩 AI Engineering & Automation Skills
+## 🧩 AI Engineering & Core Skills
 
-- AI Agents & LLM Applications (**Claude API, OpenAI API, Prompt Engineering**)
+- Full-stack Development (**React, Next.js, Node.js, TypeScript, REST API design, authentication & role-based access**)
+- Cloud & Database Systems (**Firebase, AWS, PostgreSQL, Supabase, SQL, schema design**)
+- AI-Native Development (**Cursor, Claude, GitHub Copilot, Claude API, OpenAI API, Prompt Engineering**)
 - Workflow Automation (**n8n, Make.com, Zapier, Webhooks**)
-- RAG Systems (**LangChain, Vector Search, Knowledge Base Automation**)
-- Backend & API Development (**Python, FastAPI, REST APIs**)
-- Conversational AI (**Chatbots, NLP workflows, multilingual assistants**)
-- Full-stack Development (**React, Next.js, Node.js, PostgreSQL**)
-- Cloud & Database Systems (**Firebase, Firestore, AWS**)
+- Payments & Integrations (**Stripe, REST APIs, Webhooks**)
+ 
 
 ---
 
 ## 🛠️ Tech Stack  
 
-Python · FastAPI · Claude API · OpenAI API · LangChain · n8n · Make.com · REST APIs · Webhooks · React · Next.js · Node.js · PostgreSQL · Firebase · AWS · Stripe
+
+TypeScript · React · Next.js · Node.js · Claude API · OpenAI API · REST APIs · Webhooks · PostgreSQL · Supabase · Firebase · Stripe · n8n · Make.com · 
 
 ---
 
-## 🔍 Additional Digital Experience
-
-**SEO Automation & Strategy**  
-- Built AI-driven content pipelines using keyword research, multilingual article generation, Google Trends integration, and automated blog publishing for Postman.com.pk  
-
-**Social Media Ad Campaigns**  
-- Expert setup and management of **Facebook, Instagram, LinkedIn ads** — including targeting, visuals, CBO optimization, retargeting, performance analysis  
-
-**Google & YouTube Ads Management**  
-- End-to-end campaign design for display & video ads — including **bid strategy, conversion tracking, remarketing & results optimization**  
-
----
 
 ## 📬 Contact  
 
